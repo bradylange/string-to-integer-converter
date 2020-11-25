@@ -22,4 +22,4 @@ Output:
 `The string '567' was parsed to the integer 567`
 
 ## Issues:
-- `my_atoi`: Converts -4506 to -25494
+- `my_atoi.c`: Converts -4506 to -25494
